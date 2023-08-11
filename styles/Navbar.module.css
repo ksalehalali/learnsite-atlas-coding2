@@ -1,0 +1,32 @@
+
+.nav{
+    background-color: rgb(101, 209, 209);
+    padding: 20px 0;
+    box-shadow: 2px 1px 1px #ccc;
+}
+
+.nav ul{
+  
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container ul{
+display: flex;
+}
+
+.container ul li{
+    margin-left: 32px;
+}
+.container ul li a{
+    color: rgb(49, 3, 3);
+}
+
+.logo{
+    font-size: 2rem;
+    font-weight: 300;
+}
